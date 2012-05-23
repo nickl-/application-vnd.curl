@@ -4,3 +4,24 @@
 [submodule "curl-lib"]
 	path = curl-lib
 	url = http://github.com/svn2github/curl-orb
+[submodule "curl-sonntag"]
+	path = curl-sonntag
+	url = http://github.com/svn2github/curl-sonntag
+[submodule "curl-ext"]
+	path = curl-ext
+	url = http://github.com/svn2github/curl-ext
+[submodule "curl-cdk"]
+	path = curl-cdk
+	url = http://github.com/svn2github/curl-cdk
+[submodule "curl-cloud"]
+	path = curl-cloud
+	url = http://github.com/svn2github/curl-cloud
+[submodule "curl-wsdk"]
+	path = curl-wsdk
+	url = http://github.com/svn2github/curl-wsdk
+[submodule "curl-advancedui"]
+	path = curl-advancedui
+	url = http://github.com/svn2github/curl-advancedui
+[submodule "curl-3d-gallery"]
+	path = curl-3d-gallery
+	url = http://github.com/svn2github/curl-3d-gallery
