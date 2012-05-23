@@ -1,0 +1,6 @@
+[submodule "curl-orb"]
+	path = curl-orb
+	url = http://github.com/svn2github/curl-orb
+[submodule "curl-lib"]
+	path = curl-lib
+	url = http://github.com/svn2github/curl-orb
