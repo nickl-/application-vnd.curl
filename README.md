@@ -310,9 +310,9 @@ That should be enough to wet the taste-buds, if you like... if you dont? Lets he
 
 
 ### Sources
-http://groups.csail.mit.edu/cag/curl/wwwpaper.html
-http://en.wikipedia.org/wiki/Curl_(programming_language)
-http://developers.curlap.com/re-reference/25-data/7-json.html
+http://groups.csail.mit.edu/cag/curl/wwwpaper.html<br>
+http://en.wikipedia.org/wiki/Curl_(programming_language)<br>
+http://developers.curlap.com/re-reference/25-data/7-json.html<br>
 
 ## Wall of fame - commiters @ sourceforge
 dmccrae        = [Doug McCrae](dmccrae@users.sourceforge.net)<br>
